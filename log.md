@@ -22,7 +22,7 @@
 **Thoughts:** Watched a Youtube Vid that went way more indepth on ::before and ::after. Still not feeling the best at it so tomorrow I'll be watching the rest of the video series to hopefully get a grasp on it.
 
 
-### Day X: July 7, 2020
+### Day 2: July 7, 2020
 
 **Today's Progress**: CSS Animation, Bezier Curve
 
