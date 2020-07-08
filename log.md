@@ -4,6 +4,7 @@
 ### Day X:
 
 **Today's Progress**: 
+
 **Thoughts:** 
 
 
@@ -24,4 +25,5 @@
 ### Day X: July 7, 2020
 
 **Today's Progress**: CSS Animation, Bezier Curve
+
 **Thoughts:** Spent a majority of the day trying to link Atom with my Github. Finally got it to start working but WHEW. I need to do my own research on CSS animation. I also need to spend more time in Angela Yu's course on Udemy. Besides that progress is good!
