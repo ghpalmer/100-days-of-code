@@ -27,3 +27,18 @@
 **Today's Progress**: CSS Animation, Bezier Curve
 
 **Thoughts:** Spent a majority of the day trying to link Atom with my Github. Finally got it to start working but WHEW. I need to do my own research on CSS animation. I also need to spend more time in Angela Yu's course on Udemy. Besides that progress is good!
+
+
+### Day 3: July 8, 2020
+
+**Today's Progress**: Tables Accesibility Code 
+
+**Thoughts:** Wrapped up the tables excersise and did a fair amount of the accesibility problems in FCC. Not a tough day at all
+
+
+
+### Day 4: July 9, 2020
+
+**Today's Progress**: Forms
+
+**Thoughts:** Didn't put a lot of work in today. Mostly because it's about to be my weekend so I was a bit checked out. Will be focusing and making up lost time tomorrow 
