@@ -42,3 +42,11 @@
 **Today's Progress**: Forms
 
 **Thoughts:** Didn't put a lot of work in today. Mostly because it's about to be my weekend so I was a bit checked out. Will be focusing and making up lost time tomorrow 
+
+
+
+### Day 5: July 11, 2020
+
+**Today's Progress**: HTML Intermediate Section, Intro CSS
+
+**Thoughts:** I gotta work on making sure I don't just do my coding but also log what I do. Besides that tho I feel like I made a lot of solid revisions to the CV project and actually made it a proper one. 
