@@ -57,3 +57,18 @@
 **Today's Progress**: Internal and External CSS
 
 **Thoughts:** I haven't done any FreeCodeCamp lessons in a while which sucks. I need to get back into doing both the course and FCC each day to help maximize my learning.
+
+### Day 7: July 13, 2020
+
+**Today's Progress**: Introduction to CSS, Applied Accessibility
+
+**Thoughts:** Finished the Introduction to CSS section in Angela's course. Got back on the freeCodeCamp
+ saddle and did some of the accessibility problems as well.
+
+### Day 8: July 14,2020
+
+**Today's Progress**: Applied Accessibility
+
+**Thoughts:** Finished the Applied Accessibility section of freeCodeCamp. Awesome introduction to making websites accessible for everyone. I definitely feel like I'm gonna need to redo those lessons tho and do my own research to fully understand it.
+
+
