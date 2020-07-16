@@ -72,3 +72,9 @@
 **Thoughts:** Finished the Applied Accessibility section of freeCodeCamp. Awesome introduction to making websites accessible for everyone. I definitely feel like I'm gonna need to redo those lessons tho and do my own research to fully understand it.
 
 
+### Day 9: July 15, 2020
+
+**Today's Progress**: Intermediate CSS Lessons, the smallest amount of python imaginable
+
+**Thoughts:** So I dipped my pinky toe into Python, literally only made a print of Hello World but we out here. I think I'm gonna hold off learning that until after I get Javascript under my belt. I also did some more CSS styling in the bootcamp course I'm working on. 
+
