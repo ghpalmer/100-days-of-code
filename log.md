@@ -78,3 +78,9 @@
 
 **Thoughts:** So I dipped my pinky toe into Python, literally only made a print of Hello World but we out here. I think I'm gonna hold off learning that until after I get Javascript under my belt. I also did some more CSS styling in the bootcamp course I'm working on. 
 
+### Day 10: July 16, 2020
+
+**Today's Progress**: Favicon, Box Model, CSS Display
+
+**Thoughts:** This log is a couple days late. Took the weekend off and completely forgot what I did. I gotta work on that and make sure I keep this consistent even on weekends.
+
