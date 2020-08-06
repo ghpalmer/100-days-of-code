@@ -84,3 +84,38 @@
 
 **Thoughts:** This log is a couple days late. Took the weekend off and completely forgot what I did. I gotta work on that and make sure I keep this consistent even on weekends.
 
+
+### Day 11: July 20th, 2020
+
+**Today's Progress**: Positioning 
+
+**Thoughts:** I’m going so slow through these courses. It took me 30 minutes to finish one lesson on CSS Positioning cause I kept getting confused on relative and absolute CSS positioning. Guess I’ll just add that to the list of stuff I need to learn more about
+
+
+### Day 16: July 27th, 2020
+
+**Thoughts:** Haven’t given a status update in a minute. Still been coding everyday (except this weekend). That being said I’ve finally hit my first “fuck I’m stuck” moment. My webpage has a white space at the bottom. There is nothing but rage and confusion in my heart.
+
+### Day 17: July 29th, 2020
+
+**Thoughts:**  I FINISHED MY PORTFOLIO SITE. I'll be honest it looks better on desktop and I need to get better at responsive design BUT I DON'T CARE RIGHT NOW. LETS GOOOOOOOOOOOOO. 
+
+### Day 18: July 30th, 2020
+
+**Thoughts:** Lecture heavy day today on UX and UI. Didn’t really code much so I’m probably gonna go through some freeCodeCamp lessons or work on a challenge from frontendmentor later tonight
+
+### Day 19: Aug 2nd, 2020
+
+**Thoughts:**  We back nerds. Finished the Web Design section of the course I'm working through. Also finished the Flexbox section of freeCodeCamp. I have no idea what I'm doing lol. I'm gonna take some time to research come of these concepts I'm struggling with
+
+ ### Day 20: Aug 4th, 2020
+
+**Today's Progress**: Flexbox
+
+**Thoughts:** Flexbox, so much flexbox. I finished the last section on CSS Grid in FCC and decided before I went to the challenges I'd learn more about Flexbox and grid. Focused on Flexbox today and did a lot of flexbox tutorials and games. Have I said Flexbox enough?
+
+### Day 21: Aug 5th, 2020
+
+**Today's Progress**: More Flexbox
+
+**Thoughts:** I'm going too slow on these flexbox tutorials. They're really helpful but I should be wrapping them up by now and I feel like I haven't really made enough progress. It is starting to make more sense though so maybe I'm going at the right pace 
