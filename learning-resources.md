@@ -16,3 +16,4 @@
 | Grid | Grid Garden | https://cssgridgarden.com/ | Tutorial | Not Started |
 | Grid | CSS Grid | https://cssgrid.io | Tutorial | Not Started | 
 | Grid | Solve Web Layout Issues with #CSSGrid | https://www.youtube.com/playlist?list=PLMklnyuK-t1H-Y_VbyOexAsKoYF6N9LNi | Videos | Not Started |
+| Responsive Design | Responsive Web Design Fundamentals | https://www.udacity.com/course/responsive-web-design-fundamentals--ud893 | Course | Not Started |
