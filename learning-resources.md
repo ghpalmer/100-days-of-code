@@ -1,0 +1,18 @@
+# Learning Resources 
+
+| Topic | Name | Link | Description | Progress |
+| --- | --- | --- | --- | --- |
+| Web Dev | FreeCodeCamp | https://www.freecodecamp.org/learn | Challenges & Tutorials |  Responsive Web Design Project | 
+| Web Dev | Angela Yu's Complete Web Dev Course | https://www.udemy.com/course/the-complete-web-development-bootcamp/learn | Course | Bootstrap |
+| Flexbox | Flexbox Zombies | https://mastery.games/flexboxzombies/ | Tutorial | In Progress |
+| Flexbox | What the Flexbox? | https://flexbox.io | Course | In Progress | 
+| Flexbox | Flexbox Froggy | https://flexboxfroggy.com | Tutorial | Completed |
+| Flexbox | Flexbox Defense | http://www.flexboxdefense.com/ | Tutorial | Completed |
+| Web Dev | Colt Steele's Web Developer Bootcamp | https://www.udemy.com/course/the-web-developer-bootcamp/learn | Course | On Pause Will Restart After Angela's Course |
+| JavaScript | The Complete JavaScript Course | https://www.udemy.com/course/the-complete-javascript-course/learn | Course | Not Started | 
+| JavaScript | You Don't Know JS | https://github.com/getify/You-Dont-Know-JS | Books | Not Started |
+| Frontend | Frontend Mentor | https://www.frontendmentor.io | Challenges | Not Started |
+| UX/UI | DailyUI | https://www.dailyui.co | Challenges | Not Started | 
+| Grid | Grid Garden | https://cssgridgarden.com/ | Tutorial | Not Started |
+| Grid | CSS Grid | https://cssgrid.io | Tutorial | Not Started | 
+| Grid | Solve Web Layout Issues with #CSSGrid | https://www.youtube.com/playlist?list=PLMklnyuK-t1H-Y_VbyOexAsKoYF6N9LNi | Videos | Not Started |
