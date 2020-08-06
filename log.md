@@ -119,3 +119,10 @@
 **Today's Progress**: More Flexbox
 
 **Thoughts:** I'm going too slow on these flexbox tutorials. They're really helpful but I should be wrapping them up by now and I feel like I haven't really made enough progress. It is starting to make more sense though so maybe I'm going at the right pace 
+
+### Day 22: Aug 6th, 2020
+
+**Today's Progress**: GitHub
+
+**Thoughts:** Today I focused on creating two files in Github, first was a file where I can put all of my learning resources that I want to go through. The second was a file for topics I want to learn more about. Will be hitting the grind again tomorrow or later tonight 
+
