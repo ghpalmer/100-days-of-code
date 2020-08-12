@@ -126,3 +126,9 @@
 
 **Thoughts:** Today I focused on creating two files in Github, first was a file where I can put all of my learning resources that I want to go through. The second was a file for topics I want to learn more about. Will be hitting the grind again tomorrow or later tonight 
 
+### Day 23: Aug 12th, 2020
+
+**Today's Progress**: Flex-Grow (Flexbox Zombies)
+
+**Thoughts:** So I completed the activity regarding flex-grow in flexbox zombies. Low key it was kinda difficult and I had to go over it again. Honestly I think I know what I'm doing now but it took me all of my learning session to figure it out. I had to change my mindset from focusing on how big the item got to the ratio of space the item is taking. 
+
