@@ -132,3 +132,8 @@
 
 **Thoughts:** So I completed the activity regarding flex-grow in flexbox zombies. Low key it was kinda difficult and I had to go over it again. Honestly I think I know what I'm doing now but it took me all of my learning session to figure it out. I had to change my mindset from focusing on how big the item got to the ratio of space the item is taking. 
 
+### Day 24: Aug 13th, 2020
+
+**Today's Progress**: Flex-Shrink, Flex-Basis, Order, Flex-Wrap
+
+**Thoughts:** I am so sick of doing flexbox zombies, but I'd be lying if I didn't say it's really helped me get a solid understanding of Flexbox. That being said, I'm over it and over learning about flexbox, but before I can move forward I really want this and grid underwraps before I get started with the coding projects for FCC and Frontend Mentor
