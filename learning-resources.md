@@ -4,7 +4,7 @@
 | --- | --- | --- | --- | --- |
 | Web Dev | FreeCodeCamp | https://www.freecodecamp.org/learn | Challenges & Tutorials |  Responsive Web Design Project | 
 | Web Dev | Angela Yu's Complete Web Dev Course | https://www.udemy.com/course/the-complete-web-development-bootcamp/learn | Course | Bootstrap |
-| Flexbox | Flexbox Zombies | https://mastery.games/flexboxzombies/ | Tutorial | In Progress |
+| Flexbox | Flexbox Zombies | https://mastery.games/flexboxzombies/ | Tutorial | Completed |
 | Flexbox | What the Flexbox? | https://flexbox.io | Course | In Progress | 
 | Flexbox | Flexbox Froggy | https://flexboxfroggy.com | Tutorial | Completed |
 | Flexbox | Flexbox Defense | http://www.flexboxdefense.com/ | Tutorial | Completed |
