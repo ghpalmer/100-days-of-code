@@ -137,3 +137,10 @@
 **Today's Progress**: Flex-Shrink, Flex-Basis, Order, Flex-Wrap
 
 **Thoughts:** I am so sick of doing flexbox zombies, but I'd be lying if I didn't say it's really helped me get a solid understanding of Flexbox. That being said, I'm over it and over learning about flexbox, but before I can move forward I really want this and grid underwraps before I get started with the coding projects for FCC and Frontend Mentor
+
+### Day 25: Aug 16th, 2020
+
+**Today's Progress**: Ding ding, you guessed it, Flexbox 
+
+**Thoughts:** Finished Flexbox Zomibes. Incredibly helpful and really did explain Flexbox perfectly. Now I just gotta finish WesBos' tutorial on Flexbox and then I can consider this topic done and I'll move on to CSS Grid
+
