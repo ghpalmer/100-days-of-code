@@ -144,3 +144,10 @@
 
 **Thoughts:** Finished Flexbox Zomibes. Incredibly helpful and really did explain Flexbox perfectly. Now I just gotta finish WesBos' tutorial on Flexbox and then I can consider this topic done and I'll move on to CSS Grid
 
+### Day 26: Aug 17th, 2020
+
+**Today's Progress**: Gulp JS
+
+**Thoughts:** So I was working through Wes Bos' course on Flexbox and hit a pretty aggressive snag. He's using an old version of Gulp that is no longer available and it really put a halt on what I was doing. I don't think I need it to keep going since all I'm trying to learn is flexbox. That being said, adding Gulp JS to the list of stuff I want to learn more about because it looks extremely useful. 
+
+
