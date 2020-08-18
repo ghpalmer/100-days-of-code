@@ -1,6 +1,6 @@
 # Topics I Want To Work On
 
-  - Flexbox - Done
+  - ~~Flexbox~~
   - Grid
   - Color Theory
   - Responsive Design
