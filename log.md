@@ -151,3 +151,14 @@
 **Thoughts:** So I was working through Wes Bos' course on Flexbox and hit a pretty aggressive snag. He's using an old version of Gulp that is no longer available and it really put a halt on what I was doing. I don't think I need it to keep going since all I'm trying to learn is flexbox. That being said, adding Gulp JS to the list of stuff I want to learn more about because it looks extremely useful. 
 
 
+### Day 27: Aug 18th, 2020
+
+**Today's Progress**: Flexbox / Grid
+
+**Thoughts:** Had to stop the code along with Wes Bos due to a lot of the videos being extremely outdated and no longer useable which sucks but it is what it is. 
+
+### Day 28: Aug 19th, 2020
+
+**Today's Progress**: Grid
+
+**Thoughts:** Completed CSS Garden and have a solid start on the Grid. Gonna work on a getting through a some reading and see if there are any tutorials on it that I can follow as well. 
