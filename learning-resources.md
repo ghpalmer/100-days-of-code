@@ -14,7 +14,7 @@
 | JavaScript | You Don't Know JS | https://github.com/getify/You-Dont-Know-JS | Books | Not Started |
 | Frontend | Frontend Mentor | https://www.frontendmentor.io | Challenges | Not Started |
 | UX/UI | DailyUI | https://www.dailyui.co | Challenges | Not Started | 
-| Grid | Grid Garden | https://cssgridgarden.com/ | Tutorial | Not Started |
+| Grid | Grid Garden | https://cssgridgarden.com/ | Tutorial | Completed |
 | Grid | CSS Grid | https://cssgrid.io | Tutorial | Not Started | 
 | Grid | Solve Web Layout Issues with #CSSGrid | https://www.youtube.com/playlist?list=PLMklnyuK-t1H-Y_VbyOexAsKoYF6N9LNi | Videos | Not Started |
 | Grid | A Complete Guide to Grid | https://css-tricks.com/snippets/css/complete-guide-grid/ | Guide | Not Started |
