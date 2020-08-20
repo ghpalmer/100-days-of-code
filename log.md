@@ -162,3 +162,9 @@
 **Today's Progress**: Grid
 
 **Thoughts:** Completed CSS Garden and have a solid start on the Grid. Gonna work on a getting through a some reading and see if there are any tutorials on it that I can follow as well. 
+
+### Day 29: Aug 20th, 2020
+
+**Today's Progress**: Grid Flexbox Responsive Design
+
+**Thoughts:** Went through CSS Trick's Guides on Flexbox and Grid. The grid one was kinda tough because I didn't have the same amount of playtime with it as I did with Flexbox, which means I def need to find more tutorials and challenges that explain it so I can get a better grasp on it. I started Udacity's course on responsive web design. Once I finish that as well as solidifying my knowledge on Grid, it'll be time to start some projects....... finally 
