@@ -8,7 +8,7 @@
 | Flexbox | What the Flexbox? | https://flexbox.io | Course | Quit Due To Outdated Videos | 
 | Flexbox | Flexbox Froggy | https://flexboxfroggy.com | Tutorial | Completed |
 | Flexbox | Flexbox Defense | http://www.flexboxdefense.com/ | Tutorial | Completed |
-| Flexbox | A Complete Guide to Flexbox | https://css-tricks.com/snippets/css/a-guide-to-flexbox/ | Guide | Not Started |
+| Flexbox | A Complete Guide to Flexbox | https://css-tricks.com/snippets/css/a-guide-to-flexbox/ | Guide | Completed |
 | Web Dev | Colt Steele's Web Developer Bootcamp | https://www.udemy.com/course/the-web-developer-bootcamp/learn | Course | On Pause Will Restart After Angela's Course |
 | JavaScript | The Complete JavaScript Course | https://www.udemy.com/course/the-complete-javascript-course/learn | Course | Not Started | 
 | JavaScript | You Don't Know JS | https://github.com/getify/You-Dont-Know-JS | Books | Not Started |
