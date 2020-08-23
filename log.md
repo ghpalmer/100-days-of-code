@@ -1,4 +1,6 @@
-# 100 Days Of Code - Log
+# #100DaysOfCode Log - Round 1 - [Gabe]
+
+The log of my #100DaysOfCode challenge. Started on [July 5th, Sunday, 2020].
 ### Template
 
 ### Day X:
@@ -168,3 +170,11 @@
 **Today's Progress**: Grid Flexbox Responsive Design
 
 **Thoughts:** Went through CSS Trick's Guides on Flexbox and Grid. The grid one was kinda tough because I didn't have the same amount of playtime with it as I did with Flexbox, which means I def need to find more tutorials and challenges that explain it so I can get a better grasp on it. I started Udacity's course on responsive web design. Once I finish that as well as solidifying my knowledge on Grid, it'll be time to start some projects....... finally 
+
+### Day 30: Aug 22nd, 2020
+
+**Today's Progress**: Responsive Web Design
+
+**Thoughts:** Worked through part 1 of the project in the course and BOY DID I LEARN THE HARD WAY. Spent 3 hours completely doing the project wrong. I overthought the instructions and paid the price for it. 
+
+Reflection: My first mistake was overthinking the instructions. Once I added the Viewpoint meta tag I thought everything was supposed to become responsive when in fact none of the elements were adjusted to be responsive. After that happened I immediately switched my screen to a smaller size and try to fix everything. What I should of done was go through each line of CSS and make sure all of my units were set to be responsive and widths were at 100%, and then from there adjusting the size and seeing what happens at smaller viewpoints.
