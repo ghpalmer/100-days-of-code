@@ -178,3 +178,10 @@ The log of my #100DaysOfCode challenge. Started on [July 5th, Sunday, 2020].
 **Thoughts:** Worked through part 1 of the project in the course and BOY DID I LEARN THE HARD WAY. Spent 3 hours completely doing the project wrong. I overthought the instructions and paid the price for it. 
 
 Reflection: My first mistake was overthinking the instructions. Once I added the Viewpoint meta tag I thought everything was supposed to become responsive when in fact none of the elements were adjusted to be responsive. After that happened I immediately switched my screen to a smaller size and try to fix everything. What I should of done was go through each line of CSS and make sure all of my units were set to be responsive and widths were at 100%, and then from there adjusting the size and seeing what happens at smaller viewpoints.
+
+### Day 31: Aug 23rd, 2020
+
+**Today's Progress**: Responsive Web Design
+
+**Thoughts:** Today was lecture heavy. Lessons today discussed media queries, viewpoints, a bit on grid and flexbox as well. Didn't code at all this morning and I'm itching to learn from my mistakes yesterday. I feel pretty confident I can get started with challenges off Frontend Mentor later this week 
+
