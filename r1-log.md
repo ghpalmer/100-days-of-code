@@ -185,3 +185,8 @@ Reflection: My first mistake was overthinking the instructions. Once I added the
 
 **Thoughts:** Today was lecture heavy. Lessons today discussed media queries, viewpoints, a bit on grid and flexbox as well. Didn't code at all this morning and I'm itching to learn from my mistakes yesterday. I feel pretty confident I can get started with challenges off Frontend Mentor later this week 
 
+### Day 32: Aug 24th, 2020
+
+**Today's Progress**: Responsive Web Design
+
+**Thoughts:** On the final project for the responsive web design course. Gonna try to wrap that up tonight and then I can finally get started with building sites
