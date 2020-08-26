@@ -196,3 +196,9 @@ Reflection: My first mistake was overthinking the instructions. Once I added the
 **Today's Progress**: Git and Github
 
 **Thoughts:** Wanted to start building the Huddle site but I realized I really didn't know how to use Git yet so going through Git-It before starting
+
+### Day 34: Aug 26th, 2020
+
+**Today's Progress**: Started the Huddle Project 
+
+**Thoughts:** Finished the Git-It tutorial. Started the Huddle project today with Frontend Mentor. Set up my Github repository and made a Versal account to host it. 5 minutes in and I quickly realize I have no idea what I'm doing lol. That being said, I am applying what I've learned so far. Will be developing mobile first and then scaling up! Put in breakpoints and set body and HTML to be responsive as well as images and anchor tags. First wall was trying to figure out why the background image tag isn't working in my HTML. 
