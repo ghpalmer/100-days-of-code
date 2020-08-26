@@ -190,3 +190,9 @@ Reflection: My first mistake was overthinking the instructions. Once I added the
 **Today's Progress**: Responsive Web Design
 
 **Thoughts:** On the final project for the responsive web design course. Gonna try to wrap that up tonight and then I can finally get started with building sites
+
+### Day 33: Aug 25th, 2020
+
+**Today's Progress**: Git and Github
+
+**Thoughts:** Wanted to start building the Huddle site but I realized I really didn't know how to use Git yet so going through Git-It before starting
